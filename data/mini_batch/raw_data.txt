@@ -1,0 +1,574 @@
+S Ich habe viele Hobbys , ich male gern und höre gern Musik , deshalb höre ich in der Freizeit Musik und male ich oft .
+A 4 5|||ZS|||.|||REQUIRED|||-NONE-|||0
+A 5 6|||-NONE-|||Ich|||REQUIRED|||-NONE-|||0
+
+S Ich höre gern Musik dann das macht mir viele Spaß , und ich spiele gern Klavir .
+A 4 5|||KonKON|||und|||REQUIRED|||-NONE-|||0
+A 8 9|||Flex|||viel|||REQUIRED|||-NONE-|||0
+A 15 16|||WS|||Klavier|||REQUIRED|||-NONE-|||0
+
+S Meine Lieblinssängerin ist Taylor Swift , Ich mag ihre Lieder sehr .
+A 1 2|||WS|||Lieblingssängerin|||REQUIRED|||-NONE-|||0
+A 5 6|||ZS|||.|||REQUIRED|||-NONE-|||0
+
+S Und ich mache einen Urlaub und treffe Freunde , weil Spaß und entspanne mit meine Freundinen ich mache .
+A 10 10|||Subj|||das|||REQUIRED|||-NONE-|||0
+A 11 11|||Präd|||macht|||REQUIRED|||-NONE-|||0
+A 12 13|||StVNS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||ValAP|||meinen|||REQUIRED|||-NONE-|||0
+A 15 16|||Flex|||Freundinnen|||REQUIRED|||-NONE-|||0
+A 17 17|||ValVRefl|||mich|||REQUIRED|||-NONE-|||0
+A 17 18|||Präd|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 18|||StVNS-|||entspanne|||REQUIRED|||-NONE-|||0
+
+S Ich kann nicht vergessen , dass meine Mitschüler und ich einst mit den deutschen Botschafter zusammen ausgetauscht haben .
+A 12 13|||Flex|||dem|||REQUIRED|||-NONE-|||0
+
+S Ich habe die letzte Frage gestellt , und mit dem Botschafter fröhlich ausgetauscht .
+A 6 7|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Zum Beispiel Ich mag Swimmen und Singen , aber am liebsten spiele ich Elektronikspielen .
+A 2 2|||StV|||mag|||REQUIRED|||-NONE-|||0
+A 2 3|||GKS|||ich|||REQUIRED|||-NONE-|||0
+A 3 4|||StV-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||WS|||Schwimmen|||REQUIRED|||-NONE-|||0
+A 13 14|||Wortb|||Videospiele|||REQUIRED|||-NONE-|||0
+
+S Ich kann mehr 100 Spielen spielen , am besten kann ich " MOBA " Spielen mit Handy spielen .
+A 3 3|||Komp|||als|||REQUIRED|||-NONE-|||0
+A 4 5|||Flex|||Spiele|||REQUIRED|||-NONE-|||0
+A 6 7|||ZS|||und|||REQUIRED|||-NONE-|||0
+A 11 12|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||ValV|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 16|||Det|||dem|||REQUIRED|||-NONE-|||0
+
+S Ich spiele oft " Ruhm vom Kaiser " .
+A 3 4|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||Det|||von|||REQUIRED|||-NONE-|||0
+
+S In diesen Spielen spiele ich " Mitte Straße " am besten , " Gegen Straße " am liebsten und " Partisamen Straße " oft .
+A 5 6|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 20 21|||WS|||Ober|||REQUIRED|||-NONE-|||0
+
+S Ich finde , diesen Straßen symbolisieren verschieden Charakters von mir .
+A 3 4|||ValV|||diese|||REQUIRED|||-NONE-|||0
+A 6 7|||Flex|||verschiedene|||REQUIRED|||-NONE-|||0
+A 7 8|||Flex|||Charaktere|||REQUIRED|||-NONE-|||0
+
+S " Gegen Straße " kann mann nicht zurück gehen nicht , deshalb ich habe Mut .
+A 0 0|||SuppLok|||Auf die|||REQUIRED|||-NONE-|||0
+A 0 1|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||WS|||man|||REQUIRED|||-NONE-|||0
+A 9 10|||Neg|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 12|||StV-|||habe|||REQUIRED|||-NONE-|||0
+A 13 14|||StV|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S " Partisamen Straße " muss zu anderes helfen , ich spiele sie oft , weil ich hilfreich und freundlich bin .
+A 0 0|||-NONE-|||Man auf der|||REQUIRED|||-NONE-|||0
+A 0 1|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||ValV;Det|||den|||REQUIRED|||-NONE-|||0
+A 6 7|||Flex|||anderen|||REQUIRED|||-NONE-|||0
+A 8 9|||ZS|||.|||REQUIRED|||-NONE-|||0
+A 9 10|||-NONE-|||Ich|||REQUIRED|||-NONE-|||0
+
+S Unter dem Bett gibt es ein Fußball und ein schönes T-shirt .
+A 5 6|||ValV|||einen|||REQUIRED|||-NONE-|||0
+A 10 11|||GKS|||T-Shirt|||REQUIRED|||-NONE-|||0
+
+S Die Bilde hängt über dem Bett .
+A 1 2|||Flex|||Bilder|||REQUIRED|||-NONE-|||0
+A 2 3|||KongrSubj|||hängen|||REQUIRED|||-NONE-|||0
+
+S Der Kleidschrank steht auch neben dem Bett .
+A 1 2|||Wortb|||Kleiderschrank|||REQUIRED|||-NONE-|||0
+
+S Neben dem Stuhl ist ein Tisch und ein Computer , was auf dem Tisch steht .
+A 10 11|||KonREL|||der|||REQUIRED|||-NONE-|||0
+
+S Unter dem Tisch stehen einen Rucksack und viele Bücher .
+A 4 5|||ValV|||ein|||REQUIRED|||-NONE-|||0
+
+S Der große Schrank mag mich am Liebsten .
+A 4 5|||ValV|||ich|||REQUIRED|||-NONE-|||0
+A 6 7|||GKS|||liebsten|||REQUIRED|||-NONE-|||0
+
+S Drittens , ich liebe das Gefühl , dass ich an der Uni studieren .
+A 12 13|||KongrSubj|||studiere|||REQUIRED|||-NONE-|||0
+
+S Oben hängen vier Lichten an der Decke .
+A 3 4|||Flex|||Lichter|||REQUIRED|||-NONE-|||0
+
+S Links an der Wand sind sechs Bilden , darunter ist ein Aquarium mit einige Fische .
+A 6 7|||Flex|||Bilder|||REQUIRED|||-NONE-|||0
+A 13 14|||ValAP|||einigen|||REQUIRED|||-NONE-|||0
+A 14 15|||ValAP|||Fischen|||REQUIRED|||-NONE-|||0
+
+S Unter dem Bett liegt ein T-Shirt , ein Fußball auf dem Boden .
+A 9 9|||Präd|||liegt|||REQUIRED|||-NONE-|||0
+
+S Etwa 10 Bücher stehen rechts von dem Bett , daoben sind drei interessante Bilden .
+A 13 14|||Flex|||Bilder|||REQUIRED|||-NONE-|||0
+
+S Darunter ist auch ein grünen Tisch mit einem Computer , ist ein Kleiderschrank , er ist sehr komisch .
+A 4 5|||Flex|||grün|||REQUIRED|||-NONE-|||0
+A 10 10|||KonKON|||daneben|||REQUIRED|||-NONE-|||0
+
+S In diesem Zimmer liegen alles bunt durcheinander , aber ich finde das Zimmer gemütlich , und es sieht eigentlich wie mein Zimmer aus .
+A 3 4|||KongrSubj|||liegt|||REQUIRED|||-NONE-|||0
+A 5 6|||Phr|||Buntes|||REQUIRED|||-NONE-|||0
+A 14 15|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Vielleicht fast alle Studiete dürfen Schüler Handy spielen .
+A 1 1|||StV-|||dürfen Schüler an|||REQUIRED|||-NONE-|||0
+A 2 3|||SuppLok|||allen|||REQUIRED|||-NONE-|||0
+A 3 4|||WS;SuppLok|||Universitäten|||REQUIRED|||-NONE-|||0
+A 4 5|||StV|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 6|||ValV;Det|||am|||REQUIRED|||-NONE-|||0
+
+S Wenn du liest Aufsatz oder Vortrag , klingelt dein Handy .
+A 2 3|||StVNS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 3|||Det|||einen|||REQUIRED|||-NONE-|||0
+A 5 5|||Det|||einen|||REQUIRED|||-NONE-|||0
+A 6 6|||StVNS-|||liest|||REQUIRED|||-NONE-|||0
+
+S Denn Lehrer kann nicht Unterricht haben .
+A 0 1|||KonKON|||Dann|||REQUIRED|||-NONE-|||0
+A 1 1|||-NONE-|||kann|||REQUIRED|||-NONE-|||0
+A 2 3|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||Neg|||keinen|||REQUIRED|||-NONE-|||0
+
+S Ich weiß du kannst das Handy Vibrationsalarm stellen .
+A 2 2|||ZS|||, dass|||REQUIRED|||-NONE-|||0
+A 3 4|||StVNS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 6|||ValV|||auf den|||REQUIRED|||-NONE-|||0
+A 6 7|||Wortb|||Vibrationsmodus|||REQUIRED|||-NONE-|||0
+A 8 8|||StVNS-|||kannst|||REQUIRED|||-NONE-|||0
+
+S Viele Schüler spielen gern Computer spieler oder Handy spieler .
+A 4 5|||GZS|||Computerspiele|||REQUIRED|||-NONE-|||0
+A 5 6|||GZS;WS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||GZS|||Handyspiele|||REQUIRED|||-NONE-|||0
+A 8 9|||GZS;WS|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Denn sie lernen nicht nur spielen .
+A 4 4|||KonKON|||und|||REQUIRED|||-NONE-|||0
+
+S Ich ging zuerst zum West See .
+A 4 5|||GZS|||Westsee|||REQUIRED|||-NONE-|||0
+A 5 6|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Der West See ist der größte See in Hangzhou .
+A 1 2|||GZS|||Westsee|||REQUIRED|||-NONE-|||0
+A 2 3|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Dann kletterte ich den Berg .
+A 3 3|||ValV|||auf|||REQUIRED|||-NONE-|||0
+
+S Das schmekte gut .
+A 1 2|||WS|||schmeckte|||REQUIRED|||-NONE-|||0
+
+S Ich schreibe immer für meine Freundinnen in anderer Schule und er über mein Leben in meiner Schule .
+A 3 4|||ValV|||an|||REQUIRED|||-NONE-|||0
+A 4 5|||-NONE-|||meinen|||REQUIRED|||-NONE-|||0
+A 7 7|||Det|||einer|||REQUIRED|||-NONE-|||0
+A 7 8|||-NONE-|||anderen|||REQUIRED|||-NONE-|||0
+A 10 11|||WS|||erzähle|||REQUIRED|||-NONE-|||0
+
+S Ich habe wenig Freizeit in der Schule , deshalb ich nur Bücher zu Hause lesen .
+A 9 9|||StV-|||lese|||REQUIRED|||-NONE-|||0
+A 10 11|||StPTK|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 12|||StPTK-|||nur|||REQUIRED|||-NONE-|||0
+A 14 15|||StV;KongrSubj|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Wenn ich viel Gelb habe , kaufe ich immer ein paar Bücher .
+A 3 4|||WS|||Geld|||REQUIRED|||-NONE-|||0
+
+S Ich freue mich auf den neuste Comic jeden Tag .
+A 3 3|||StMF-|||jeden Tag|||REQUIRED|||-NONE-|||0
+A 5 6|||Flex;Kompb|||neuesten|||REQUIRED|||-NONE-|||0
+A 7 8|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Zum Beispiel Hausaufgabe machen , Bücher lesen , schlafen ... ... . Mutter hat gesagt , dass nicht gut für meine Ohren ist .
+A 2 2|||SuppTemp|||beim|||REQUIRED|||-NONE-|||0
+A 2 3|||ValV|||Hausaufgabenmachen|||REQUIRED|||-NONE-|||0
+A 3 4|||ValV|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||ValV|||Bücherlesen|||REQUIRED|||-NONE-|||0
+A 6 7|||ValV|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||ValV|||Schlafen|||REQUIRED|||-NONE-|||0
+A 10 11|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 17|||-NONE-|||es|||REQUIRED|||-NONE-|||0
+
+S Meine Mutter fodert mich jeden Tag , meine Sachen zu ordnen .
+A 3 3|||ValV|||von|||REQUIRED|||-NONE-|||0
+A 3 4|||ValV|||mir|||REQUIRED|||-NONE-|||0
+
+S Sie sagt dass ein sauberes Zimmer für mein Leben und Studium gut ist .
+A 2 2|||ZS|||,|||REQUIRED|||-NONE-|||0
+
+S In der Ecke wird gespinnt und auf dem Tisch liegen zu saugend staube .
+A 4 5|||Flex|||gesponnen|||REQUIRED|||-NONE-|||0
+A 9 10|||KongrSubj|||liegt|||REQUIRED|||-NONE-|||0
+A 11 12|||Flex|||saugender|||REQUIRED|||-NONE-|||0
+A 12 13|||GKS;Flex|||Staub|||REQUIRED|||-NONE-|||0
+
+S über das Phänomen diskutiert man , ob es richtig und erlaubt ist .
+A 0 1|||GKS|||Über|||REQUIRED|||-NONE-|||0
+
+S Obwohl Heutezutag das Handy eine bedeutede Rolle im Leben spielt .
+A 0 1|||KonKOU|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||GKS;WS|||Heutzutage|||REQUIRED|||-NONE-|||0
+A 2 2|||-NONE-|||spielt|||REQUIRED|||-NONE-|||0
+A 5 6|||WS|||bedeutende|||REQUIRED|||-NONE-|||0
+A 9 10|||KonKOU|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Aber meiner Meinung Nach darf Schüler das Handy im Unterricht nicht mitbringen .
+A 3 4|||GKS|||nach|||REQUIRED|||-NONE-|||0
+A 4 5|||KongrSubj|||dürfen|||REQUIRED|||-NONE-|||0
+A 8 8|||StPTK-|||nicht|||REQUIRED|||-NONE-|||0
+A 10 11|||StPTK|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Wenn Schülern das Handy mitbringen , können Sie sich nicht auf den Unterricht konzentieren .
+A 1 2|||Flex|||Schüler|||REQUIRED|||-NONE-|||0
+A 7 8|||KongrAnt|||sie|||REQUIRED|||-NONE-|||0
+A 13 14|||WS|||konzentrieren|||REQUIRED|||-NONE-|||0
+
+S Andererseits , Schülern begeistern sich nicht für schwere Probleme .
+A 1 2|||ZS|||begeistern|||REQUIRED|||-NONE-|||0
+A 2 2|||-NONE-|||sich|||REQUIRED|||-NONE-|||0
+A 2 3|||Flex|||Schüler|||REQUIRED|||-NONE-|||0
+A 3 4|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mit der Zeit , lernen schülern nicht gern .
+A 3 4|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||GKS;Flex|||Schüler|||REQUIRED|||-NONE-|||0
+
+S Zusammenfassend finde ich , dass Schüler abhängig nicht immer von dem Handy sollen .
+A 6 7|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 9|||StMF-|||abhängig|||REQUIRED|||-NONE-|||0
+A 12 12|||Präd|||sein|||REQUIRED|||-NONE-|||0
+
+S Ich habe vor , sich nach dem Abschluss der Universität weiter ausbilden .
+A 4 5|||ValVRefl|||mich|||REQUIRED|||-NONE-|||0
+A 11 12|||Infin|||auszubilden|||REQUIRED|||-NONE-|||0
+
+S Wenn wir jetzt uns in der Big Data-Ära befinden , sind die Anforderungen an die Fähigkeiten von Arbeitnehmern stark gewachsen , daher werden die Konkurrenzen zwischen den Bewerbern auch intensiver .
+A 0 1|||KonKOU|||Weil|||REQUIRED|||-NONE-|||0
+A 6 6|||-NONE-|||Ära von|||REQUIRED|||-NONE-|||0
+A 7 8|||-NONE-|||Data|||REQUIRED|||-NONE-|||0
+
+S Außerdem haben Postgraduierten-Diplome einen höheren Goldgehalt , mit den wir einen besseren Job wahrscheinlicher finden können .
+A 2 3|||Wortb|||Diplome|||REQUIRED|||-NONE-|||0
+A 8 9|||KongrAnt|||denen|||REQUIRED|||-NONE-|||0
+A 10 10|||StMF-|||wahrscheinlich|||REQUIRED|||-NONE-|||0
+A 13 14|||Kompb;StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Aus den oben genannten Gründen ziehe ich es vor , mein Studium fortzusetzen .
+A 2 3|||GZS|||obengenannten|||REQUIRED|||-NONE-|||0
+A 3 4|||GZS|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Obwohl Studenten sich mit der Handy darüber informieren können , was sie wissen möchten , jedoch können Handys behindern , Studenten sich im Unterricht konzentriert zu sein .
+A 15 16|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 18|||StMF-|||jedoch sie|||REQUIRED|||-NONE-|||0
+A 20 21|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 25|||Infin|||-NONE-|||REQUIRED|||-NONE-|||0
+A 26 27|||Infin|||-NONE-|||REQUIRED|||-NONE-|||0
+A 27 27|||-NONE-|||konzentrieren|||REQUIRED|||-NONE-|||0
+
+S Es ist gefährlich für ihre Augen , wenn sie im Unterricht noch benutzen .
+A 11 11|||ValV|||Handys|||REQUIRED|||-NONE-|||0
+
+S Allerdings darf man nicht übersehen , dass Studenten von den Handyspielen süchtig werden können .
+A 8 9|||ValADJ|||nach|||REQUIRED|||-NONE-|||0
+
+S Wenn ich den Titel sah , dachte ich sofort an meine Erfahrung , auf einen Teegarten ( 茶园 ) zu gehen .
+A 0 1|||KonKOU|||Als|||REQUIRED|||-NONE-|||0
+A 14 15|||-NONE-|||eine|||REQUIRED|||-NONE-|||0
+A 15 16|||Wortb|||Teeplantage|||REQUIRED|||-NONE-|||0
+A 16 17|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 19|||-NONE-|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Das war mein erster Besuch auf dem Teegarten , deshalb war ich auf alles neugirig .
+A 6 7|||-NONE-|||der|||REQUIRED|||-NONE-|||0
+A 7 8|||Wortb|||Teeplantage|||REQUIRED|||-NONE-|||0
+A 14 15|||WS|||neugierig|||REQUIRED|||-NONE-|||0
+
+S Zuerst erklärten uns die Mitarbeiter die Kenntnisse über Longjing-Tee , dann gingen wir zum Teegarten , um Teeblätter zu pflücken .
+A 13 14|||-NONE-|||zur|||REQUIRED|||-NONE-|||0
+A 14 15|||Wortb|||Teeplantage|||REQUIRED|||-NONE-|||0
+
+S Wenn ich Hausaufgaben ohne Musik mache , errinne ich oft an etwas Anderes : Zum Beispiel die Mitschüler und Mitschülerinnen , das Spiel , die Noten und so weiter .
+A 7 8|||WS|||erinnere|||REQUIRED|||-NONE-|||0
+A 9 9|||ValVRefl|||mich|||REQUIRED|||-NONE-|||0
+A 13 14|||ZS|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||-NONE-|||zum|||REQUIRED|||-NONE-|||0
+
+S Wenn ich Musik , denke ich nur an die Hausaufgaben .
+A 3 3|||Präd|||höre|||REQUIRED|||-NONE-|||0
+
+S Zum Schluss finde ich die Hausaufgaben mit Musik nicht sehr anstrengend sein .
+A 11 12|||ValV|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Auf dem Boden liegt es nicht nur Müll sondern auch Pizza , es ist weder gesund noch sauber .
+A 3 4|||KongrSubj|||liegen|||REQUIRED|||-NONE-|||0
+A 4 5|||Expl|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||Det|||eine|||REQUIRED|||-NONE-|||0
+A 11 12|||KonKON|||und|||REQUIRED|||-NONE-|||0
+
+S Es ist mir unüberrascht , dass an der Ecke eine Spinne hängt .
+A 3 3|||-NONE-|||nicht|||REQUIRED|||-NONE-|||0
+A 3 4|||Wortb|||überraschend|||REQUIRED|||-NONE-|||0
+
+S Auf dem Boden liegen es auch 2 Bier glass , die sehr gefährlich sind , wenn jemand sie zersercht .
+A 4 5|||Expl|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||Flex;Wortb|||Bierflaschen|||REQUIRED|||-NONE-|||0
+A 8 9|||Flex;Wortb|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 19|||Wortb|||zerstört|||REQUIRED|||-NONE-|||0
+
+S Ich erinnere mich noch an die Mittenacht , als ich den letzten Teil unseres eignen Romans fertig schrieb .
+A 14 15|||WS|||eigenen|||REQUIRED|||-NONE-|||0
+
+S Als ein künstliches Wesen erschloss sie sich für das Schicksaal , während alle Menschen sich von der Wahrheit flüchteten .
+A 12 12|||StMF-|||sich|||REQUIRED|||-NONE-|||0
+A 14 15|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||ValV|||vor|||REQUIRED|||-NONE-|||0
+
+S Wir bekamen einige Zetteln , auf denen standen mehrere vorgeschieben Stichwörter und Sätze , die wir danach in unseren Geschichten verwenden mussten .
+A 7 8|||StVNS|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||WS|||vorgeschrieben|||REQUIRED|||-NONE-|||0
+A 13 13|||StVNS-|||standen|||REQUIRED|||-NONE-|||0
+
+S " Am Anfang hatten wir keine Ideen , wie einem etwas mit solchem Satz einfallen konnte .
+A 12 12|||Det|||einem|||REQUIRED|||-NONE-|||0
+A 12 13|||-NONE-|||solchen|||REQUIRED|||-NONE-|||0
+
+S Liebesgeschichte war mir zu schierig und kam uns abwechslungslos vor .
+A 0 0|||Det|||Eine|||REQUIRED|||-NONE-|||0
+A 4 5|||WS|||schwierig|||REQUIRED|||-NONE-|||0
+
+S Diese Erfahrung war für mich so unvergessbar , dass ich mich daran ab und zu erinnern kann .
+A 6 7|||Wortb|||unvergesslich|||REQUIRED|||-NONE-|||0
+
+S Es gibt nur fünf Personen in meine Familie . Eltern , meine Großeltern und ich .
+A 6 7|||ValWP|||meiner|||REQUIRED|||-NONE-|||0
+A 8 9|||ZS|||:|||REQUIRED|||-NONE-|||0
+A 14 15|||-NONE-|||mich|||REQUIRED|||-NONE-|||0
+
+S Mein Vater ist ein Eingeneur .
+A 3 4|||Det|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||WS|||Ingenieur|||REQUIRED|||-NONE-|||0
+
+S Er spielt mit mir immer Fußball und Computer spiele .
+A 7 8|||GZS|||Computerspiele|||REQUIRED|||-NONE-|||0
+A 8 9|||GZS|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Wir machen zusammen immer Spaß .
+A 0 1|||Expl|||Es|||REQUIRED|||-NONE-|||0
+A 1 2|||-NONE-|||macht|||REQUIRED|||-NONE-|||0
+A 2 2|||ValV|||uns|||REQUIRED|||-NONE-|||0
+
+S Meine Mutter bringt mir immer Stress , weil sie immer sehr viel Hausaufgaben .
+A 13 13|||Präd|||aufgibt|||REQUIRED|||-NONE-|||0
+
+S Sie können sehr gut Kochen .
+A 4 5|||Infin|||kochen|||REQUIRED|||-NONE-|||0
+
+S Wenn ich mit meine Familie wohnen , dann finde ich froh und gemütlich .
+A 3 4|||ValAP|||meiner|||REQUIRED|||-NONE-|||0
+A 5 6|||KongrSubj|||wohne|||REQUIRED|||-NONE-|||0
+A 10 10|||ValV|||es|||REQUIRED|||-NONE-|||0
+
+S Ich mache nicht sehr gern Zimmer sauber , deshalb ist es ein bisschen schmutzig .
+A 5 5|||Det|||das|||REQUIRED|||-NONE-|||0
+
+S Dort steht einen Computer und einen Stuhl .
+A 2 3|||ValV|||ein|||REQUIRED|||-NONE-|||0
+A 5 6|||ValV|||ein|||REQUIRED|||-NONE-|||0
+
+S Ein Bett ist neben ihn .
+A 4 5|||ValWP|||ihm|||REQUIRED|||-NONE-|||0
+
+S Die Gitarre liegt auf mein Bett .
+A 4 5|||ValWP|||meinem|||REQUIRED|||-NONE-|||0
+
+S In meinem Zimmer gibt auch viele Fische , zwei gelb und ein rot .
+A 4 4|||Expl|||es|||REQUIRED|||-NONE-|||0
+A 9 10|||Flex|||gelbe|||REQUIRED|||-NONE-|||0
+A 11 12|||ValV|||einen|||REQUIRED|||-NONE-|||0
+A 12 13|||Flex|||roten|||REQUIRED|||-NONE-|||0
+
+S An der Wand gibt drei Poster und sechs Fotos .
+A 4 4|||Expl|||es|||REQUIRED|||-NONE-|||0
+
+S Ich mag noch Bier trinken .
+A 4 5|||ValV|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Wenn ich Zeit habe , will ich mein Zimmer saubemache .
+A 9 10|||WS;Flex|||saubermachen|||REQUIRED|||-NONE-|||0
+
+S Es gibt 3 Mitglieder in meiner kleinen Familie , nämlich meine Mutter , meinen Vater und ich .
+A 16 17|||ValV|||mich|||REQUIRED|||-NONE-|||0
+
+S Auch mein Vater arbeitet als in der gleichen Firma Ingenieur , dennoch erscheint er mir sehr ernsthaft und humorlos .
+A 5 6|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||StMF-|||in der gleichen Firma|||REQUIRED|||-NONE-|||0
+
+S Was ich sagen möchte ist , dass wir uns trotz dem Unterschied lieben .
+A 4 4|||ZS|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||Expl|||es|||REQUIRED|||-NONE-|||0
+A 10 11|||ValAP|||des|||REQUIRED|||-NONE-|||0
+A 11 12|||ValAP|||Unterschieds|||REQUIRED|||-NONE-|||0
+
+S Es gibt insgesamt vier Personen in meiner Familie . Mutter , mein Vater , meine Schwester und ich .
+A 8 9|||ZS|||:|||REQUIRED|||-NONE-|||0
+A 11 12|||-NONE-|||meinen|||REQUIRED|||-NONE-|||0
+A 17 18|||-NONE-|||mich|||REQUIRED|||-NONE-|||0
+
+S Sie ist das kleinste in unserer Familie .
+A 2 3|||KongrAnt|||die|||REQUIRED|||-NONE-|||0
+A 3 4|||GKS|||Kleinste|||REQUIRED|||-NONE-|||0
+
+S Meine Mutter ist eine geduldige , nette , schöne Frau .
+A 7 8|||KonKON|||und|||REQUIRED|||-NONE-|||0
+
+S Sie kümmert um mich und Schwester , und auch meinen Vater .
+A 2 2|||ValVRefl|||sich|||REQUIRED|||-NONE-|||0
+A 4 5|||ZS|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||Det|||meine|||REQUIRED|||-NONE-|||0
+A 6 7|||ZS|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ich lebe in einer großer Familie mit meiner Eltern , meinem Bruder und meiner Großeltern .
+A 4 5|||Flex|||großen|||REQUIRED|||-NONE-|||0
+A 7 8|||Flex|||meinen|||REQUIRED|||-NONE-|||0
+A 13 14|||Flex|||meinen|||REQUIRED|||-NONE-|||0
+
+S Bevor ich 12 Jahre war , lebte wir auf dem Land .
+A 6 7|||KongrSubj|||lebten|||REQUIRED|||-NONE-|||0
+
+S Meine Großmutter ist immer mit Lächern .
+A 5 6|||WS|||Lächeln|||REQUIRED|||-NONE-|||0
+
+S Mein Mutter ist auch eine Lehrerin .
+A 0 1|||Flex|||Meine|||REQUIRED|||-NONE-|||0
+A 4 5|||Det|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sie ist immer nett bei jungen Menschen .
+A 4 5|||ValADJ|||zu|||REQUIRED|||-NONE-|||0
+
+S Ich bin noch Student und verdiene kein Geld , aber ich helfe sie machmal die Hausarbeit , um sein Stress zu verringern .
+A 12 13|||ValV|||ihnen|||REQUIRED|||-NONE-|||0
+A 13 14|||WS|||manchmal|||REQUIRED|||-NONE-|||0
+A 14 14|||ValV|||bei|||REQUIRED|||-NONE-|||0
+A 14 15|||-NONE-|||der|||REQUIRED|||-NONE-|||0
+A 18 19|||ValV;KongrAnt|||ihren|||REQUIRED|||-NONE-|||0
+
+S Vielleicht muss er viel zu tun .
+A 1 2|||Aux|||hat|||REQUIRED|||-NONE-|||0
+
+S Unter der Decke hängt viele Lampen .
+A 3 4|||KongrSubj|||hängen|||REQUIRED|||-NONE-|||0
+
+S Ein wichtiger Grund steht darin , dass die Schüler ihre Handys im Unterricht spielen und nicht hören , was die Lehrer sagen .
+A 9 9|||StMF-|||im Unterricht mit|||REQUIRED|||-NONE-|||0
+A 9 10|||-NONE-|||ihren|||REQUIRED|||-NONE-|||0
+A 11 12|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Kinder fehlt oft Kontrolle .
+A 0 1|||ValV|||Kindern|||REQUIRED|||-NONE-|||0
+
+S Das wird dazu führen , dass die Schüler die Kenntnisse im Unterricht nicht verstehen und die Hausaufgaben nicht fertigmachen kann .
+A 19 20|||KongrSubj|||können|||REQUIRED|||-NONE-|||0
+
+S Wenn es auf die Prüfung kommt , wird er in großer Panik und versuchen , die Kenntnisse zu lernen und verstehen , aber es ist unmöglich , alles in drei Tagen lernen und benutzen .
+A 12 12|||Präd|||geraten|||REQUIRED|||-NONE-|||0
+A 20 20|||Infin|||zu|||REQUIRED|||-NONE-|||0
+A 31 31|||Infin|||zu|||REQUIRED|||-NONE-|||0
+A 33 33|||Infin|||zu|||REQUIRED|||-NONE-|||0
+
+S Am liebsten treibe ich Sport in der Freizeit Sport .
+A 4 5|||ValV|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Am Wochenenende gehe ich zum Baseballtraining .
+A 1 2|||WS|||Wochenende|||REQUIRED|||-NONE-|||0
+
+S Wenn ich nicht gut gelaunt bin , höre ich selbst Musik oder schaue ich Videos an .
+A 12 13|||StV|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 14|||StV-|||schaue|||REQUIRED|||-NONE-|||0
+
+S Ich singe auch gerne , wenn ich im Urlaub bin , gehe ich mit meiner Familie oder meinen Freunden zu KTV .
+A 4 5|||ZS|||.|||REQUIRED|||-NONE-|||0
+A 5 6|||ZS|||Wenn|||REQUIRED|||-NONE-|||0
+A 19 20|||Det|||zum|||REQUIRED|||-NONE-|||0
+A 20 21|||WS|||Karaoke|||REQUIRED|||-NONE-|||0
+
+S Ich treibe Sport gern , um gesund zu bleiben , deshalb spiele ich oft Badminton nach meinen Hausaufgaben .
+A 2 2|||StMF-|||gern|||REQUIRED|||-NONE-|||0
+A 3 4|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ich räume mein Zimmer auch gerne .
+A 6 6|||PTKVZ|||auf|||REQUIRED|||-NONE-|||0
+
+S Bücher sind meine gute Freunde .
+A 3 4|||Flex|||guten|||REQUIRED|||-NONE-|||0
+
+S Die Geschichte sind interessant .
+A 1 2|||Flex|||Geschichten|||REQUIRED|||-NONE-|||0
+
+S Mit dem Handy könne sie viel übernehmen .
+A 3 4|||KongrSubj|||können|||REQUIRED|||-NONE-|||0
+A 5 6|||ValV|||vieles|||REQUIRED|||-NONE-|||0
+
+S Aber die Schüle müssen im Unterricht ohne Handy sein .
+A 2 3|||WS|||Schüler|||REQUIRED|||-NONE-|||0
+
+S Sie können etwas nachschlagen , was sie sich interessieren .
+A 5 6|||KonREL|||wofür|||REQUIRED|||-NONE-|||0
+
+S Ich lese am liebsten abends , bevor ich ins Bett gehe , ich finde es spanned , mich in eine Geschichte zu vertriften und in eine andere Welt abzutauchen .
+A 11 12|||ZS|||.|||REQUIRED|||-NONE-|||0
+A 12 13|||-NONE-|||Ich|||REQUIRED|||-NONE-|||0
+A 15 16|||WS|||spannend|||REQUIRED|||-NONE-|||0
+A 17 18|||ValVRefl|||-NONE-|||REQUIRED|||-NONE-|||0
+A 22 23|||WS|||vertiefen|||REQUIRED|||-NONE-|||0
+
+S Deshalb wird die Diskussion immer haftiger , ob sie in die Schule Handys mitbringen dürfen .
+A 5 6|||WS|||heftiger|||REQUIRED|||-NONE-|||0
+A 9 9|||StMF-|||Handys|||REQUIRED|||-NONE-|||0
+A 12 13|||StMF|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Das könnte in der Zukunft Sozialangst und Sozialkommunikationmessen führen .
+A 5 5|||ValV;Det|||zur|||REQUIRED|||-NONE-|||0
+A 7 8|||Wortb|||Kommunikationsstörungen|||REQUIRED|||-NONE-|||0
+
+S Ich glaube , die Studenten darf im Unterricht nicht Handys benutzen .
+A 3 3|||KonKOU|||dass|||REQUIRED|||-NONE-|||0
+A 5 6|||KongrSubj|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||Neg|||keine|||REQUIRED|||-NONE-|||0
+A 11 11|||-NONE-|||dürfen|||REQUIRED|||-NONE-|||0
+
+S Handy hat unser Leben viel einfacher gemacht , trotzdem finde ich noch , dass die Studenten im Unterricht Handys nicht benutzen sollen .
+A 0 0|||Det|||Das|||REQUIRED|||-NONE-|||0
+
+S Andererseits können sie stark ablenken .
+A 3 3|||ValV|||die Studenten|||REQUIRED|||-NONE-|||0
+
+S Ein noch wichtigerer Grund ist , wenn Studenten im Unterricht das Handy mitbringen , richten sie immer die Aufmerksamkeit auf das Handy , ob es eine neue Nachricht gibt .
+A 6 6|||KonKOU|||dass|||REQUIRED|||-NONE-|||0
+A 8 9|||-NONE-|||in|||REQUIRED|||-NONE-|||0
+A 9 9|||ValWP|||den|||REQUIRED|||-NONE-|||0
+A 14 15|||KonKOU|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||KorSupp|||darauf|||REQUIRED|||-NONE-|||0
+A 20 21|||KorSupp|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 22|||KorSupp|||-NONE-|||REQUIRED|||-NONE-|||0
+A 22 22|||-NONE-|||richten|||REQUIRED|||-NONE-|||0
+
